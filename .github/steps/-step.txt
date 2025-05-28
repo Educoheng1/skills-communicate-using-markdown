@@ -1,4 +1,2 @@
-</header>
-
-## Welcome Eduardo 1
-# this is a header 
+- name: Visual header
+  run: echo "====== Welcome Eduardo 1 ======"
